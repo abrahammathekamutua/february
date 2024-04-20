@@ -1,5 +1,5 @@
 kenya has 30 counties
-nairobi is one of the counties
+nairobi is one of the counties out many counties
 mombasa is the smallest county
 mandera county is very far
 check the control structures
