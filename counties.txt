@@ -3,4 +3,5 @@ nairobi is one of the counties out many counties
 mombasa is the smallest county
 mandera county is very far
 check the control structures
+the code for java is easier to undertand
 
